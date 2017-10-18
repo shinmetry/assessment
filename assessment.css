@@ -1,17 +1,35 @@
-body {
-    background-color: #04A6EB;
-    color: #FDFFFF;
-    width: 500px;
-    margin-right: auto;
-    margin-left : auto;
+body{
+  background-color:#00A9E0;
+  color:#FDFFFF;
+  width:500px;
+  margin-right:auto;
+  margin-left:auto;
 }
-button {
-    padding: 5px 20px;
-    background-color: #337AB7;
-    color: #FDFFFF;
-    border-color: #2E6DA4;
-    border-style: none;
+
+button{
+  padding:5px 20px;
+  background-color:##D9A3A1;
+  border-color:#2E6DA4;
+  border-style:solid;
+  border-radius: 15%;
+
 }
-input {
-    height: 20px;
+
+#sindan{
+  text-align:center;
+  width:600px;
+  height:300px;
+  background-color:#0257B7;
+  /*padding-bottom:50px;*/
+  border-style: dashed;
+  border-radius:15%;
+}
+
+input{
+  height:20px;
+}
+
+table{
+    padding-left: 100px;
+    padding-top: 30px;
 }
